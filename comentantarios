@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main (){
+//para escrever comentarios em uma linha, ideal para comentarios curtos.
+
+    /*comentario em varias linhas
+    ideal para cometarios longos.
+    */
+
+}
